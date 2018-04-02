@@ -1,0 +1,18 @@
+body {
+  background-image: linear-gradient(to right bottom, #c2d9fa, #bee5f4, #cceceb, #e2f1e8, #f4f6ef);
+  height: 100vh;
+}
+
+#section-1, #section-2, #section-3, #section-4, #section-5, #section-6, #section-7 {
+  background-color: rgba(255,255,255,0.3);
+}
+
+#section-1 {
+  animation-delay: 0.5s;
+  /* animation-duration: 5s; */
+  /* animation-iteration-count: infinite; */
+}
+
+#section-2 {
+  animation-delay: 1s;
+}
